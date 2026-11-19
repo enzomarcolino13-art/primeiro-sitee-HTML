@@ -1,0 +1,28 @@
+.titulo {
+    text-align: center;
+}
+
+.caixa1{
+    text-align: center;
+    background-color:aqua;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.caixa2{
+    text-align: center;
+    background-color:aquamarine;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.botao{
+    text-align: center;
+    background-color:black;
+    color:white;
+    border-radius: 150px;
+    padding: 2px;
+    margin: 10px;
+}
